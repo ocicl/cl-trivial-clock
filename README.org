@@ -5,5 +5,5 @@ Common Lisp library to get accurate wall-clock times on multiple platforms
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/ak-coram/cl-trivial-clock.git |
 | commit  | 6fb3688                                              |
-| systems | cl-trivial-clock                                     |
+| systems | trivial-clock                                        |
 |---------+------------------------------------------------------|
